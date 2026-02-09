@@ -4,7 +4,7 @@ Results-driven Full Stack Web Developer with a strong passion for development an
 
 ### ✨ About me
 - 🔭 I’m working on exciting projects 
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently learning Data engineering.
 
   
 
@@ -18,7 +18,7 @@ Results-driven Full Stack Web Developer with a strong passion for development an
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on projects 
-- 🌱 I’m currently learning Data science, nodejs, powerBI
+- 🌱 I’m currently learning Data Engineering, nodejs, powerBI
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
