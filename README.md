@@ -55,11 +55,11 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
-  <a href="https://developer.apple.com/swift/" target="_blank"> 
-     <img alt="Swift" src="https://www.vhv.rs/viewpic/Thohxhb_reactjs-logo-react-js-transparent-icon-hd-png/#google_vignette" width=60px>
+  <a href="#" target="_blank"> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" />
    </a>
   &emsp;
-  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img alt="Objective-C" src="https://github.com/Rohit-Kothawale/Rohit-Kothawale/assets/124340248/c380f2e0-d859-421d-b949-fc37933a7c39?style=plastic&logo=java&logoColor=white" width=60px>
   </a>
 </p>
