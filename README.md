@@ -56,7 +56,7 @@
 <p align="center"> 
   &emsp; 
   <a href="https://developer.apple.com/swift/" target="_blank"> 
-     <img alt="Swift" src="https://github.com/Rohit-Kothawale/Rohit-Kothawale/assets/124340248/d598c6cd-34a9-4e14-9912-c301effb7b99?style=plastic&logo=javascript&logoColor=black" width=60px>
+     <img alt="Swift" src="https://www.vhv.rs/viewpic/Thohxhb_reactjs-logo-react-js-transparent-icon-hd-png/#google_vignette" width=60px>
    </a>
   &emsp;
   <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html" target="_blank"> 
