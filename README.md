@@ -35,11 +35,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center">
-  <span title="C">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-         width="50"
-         style="margin:10px; padding:10px;" />
-  </span>
+ 
   
   <span title="C++">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
@@ -47,11 +43,6 @@
          style="margin:10px; padding:10px;" />
   </span>
   
-  <span title="Java">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-         width="50"
-         style="margin:10px; padding:10px;" />
-  </span>
   
   <span title="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
