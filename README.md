@@ -12,7 +12,7 @@
 
 <br><br>
 
-- 💻: I am a `Full Stack Developer` at [Global Kartel](https://www.globalkartel.com/), pune, maharastra, india.
+- 💻: I am a `Frontend Developer` at [Global Kartel](https://www.globalkartel.com/), pune, maharastra, india.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning new technology, frameworks, API's like `Kafka`, `Apache Spark`, `GCP` etc.
 - :nerd_face: Always `learning new things`.
